@@ -1,3 +1,3 @@
 # CRUD_em_Java  
-Código feito em Java, html, css e javascript.  
+Código feito em Java,Sql, html, css e javascript.  
 Utilizou-se o tomCat, Mysql Workbench e a IDE Eclipse.
